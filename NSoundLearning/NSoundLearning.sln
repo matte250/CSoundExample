@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSoundLearning", "NSoundLearning\NSoundLearning.csproj", "{77818737-447C-4087-B508-B80F058C241A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "..\CSoundProject\ClassLibrary1\CommandPattern.csproj", "{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAudioConsoleDemo", "NAudioConsoleDemo\NAudioConsoleDemo.csproj", "{AF6A8501-8B61-404D-A3B2-62E8570235D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77818737-447C-4087-B508-B80F058C241A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77818737-447C-4087-B508-B80F058C241A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77818737-447C-4087-B508-B80F058C241A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77818737-447C-4087-B508-B80F058C241A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6A8501-8B61-404D-A3B2-62E8570235D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6A8501-8B61-404D-A3B2-62E8570235D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6A8501-8B61-404D-A3B2-62E8570235D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6A8501-8B61-404D-A3B2-62E8570235D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4C40F8-FF77-4E0D-BF0E-49D565F7BADA}
+	EndGlobalSection
+EndGlobal

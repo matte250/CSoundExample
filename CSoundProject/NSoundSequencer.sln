@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSoundProject", "CSoundProject\CSoundProject.csproj", "{5679DE5C-962C-4C50-9EF7-97B4EC0AE2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "ClassLibrary1\CommandPattern.csproj", "{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TESTS", "TESTS", "{A45E555C-E6F5-4D5E-9B50-661BBB19A682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5679DE5C-962C-4C50-9EF7-97B4EC0AE2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5679DE5C-962C-4C50-9EF7-97B4EC0AE2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5679DE5C-962C-4C50-9EF7-97B4EC0AE2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5679DE5C-962C-4C50-9EF7-97B4EC0AE2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E3F812-C61F-419D-B0C9-1AF9E7FC80F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE0A5E3-9826-4F36-AE2D-D2ECDDFB1829}
+	EndGlobalSection
+EndGlobal
