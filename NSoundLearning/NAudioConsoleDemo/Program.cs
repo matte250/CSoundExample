@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CommandPattern;
 using NAudioConsoleDemo.Demos.NAudioPlayback;
+using NAudioConsoleDemo.Demos.SimpleOscillation;
 using NAudioConsoleDemo.Demos.WindowsSoundPlayer;
 
 namespace NAudioConsoleDemo
@@ -24,6 +25,10 @@ namespace NAudioConsoleDemo
                 "naudioplayback",
                 typeof(NAudioPlaybackDemoCommand),
                 (string[] param) => new NAudioPlaybackDemoCommand());
+            mainCommandRespiratory.AddCommand(
+                "simpleoscillation",
+                typeof(SimpleOscillationDemoCommand),
+                (string[] param) => new SimpleOscillationDemoCommand());
 
             CommandDirector mainCommandDirector = new CommandDirector(mainCommandRespiratory);
             mainCommandDirector.Title = "NAudio Demos";

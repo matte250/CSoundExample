@@ -30,7 +30,7 @@ namespace NSoundLearning.Examples
 
         /// <summary>
         /// Since we will use ClippingSampleProvider as an "effect", or in the middle of a signal chain,
-        /// we will the source we want to change in ClippingSampleProvider's constructor.
+        /// we will set the source we want to change in ClippingSampleProvider's constructor.
         /// </summary>
         /// <param name="source">
         /// Sample to be clipped.

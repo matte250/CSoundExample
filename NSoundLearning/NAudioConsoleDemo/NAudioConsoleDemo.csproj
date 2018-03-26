@@ -46,10 +46,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Demos\NAudioPlayback\FowardCommand.cs" />
+    <Compile Include="Demos\NAudioPlayback\GetDevicesCommand.cs" />
     <Compile Include="Demos\NAudioPlayback\NAudioPlaybackDemoCommand.cs" />
     <Compile Include="Demos\NAudioPlayback\PlayCommand.cs" />
+    <Compile Include="Demos\NAudioPlayback\ResetCommand.cs" />
     <Compile Include="Demos\NAudioPlayback\ReverseCommand.cs" />
+    <Compile Include="Demos\NAudioPlayback\SetVolumeCommand.cs" />
     <Compile Include="Demos\NAudioPlayback\StopCommand.cs" />
+    <Compile Include="Demos\SimpleOscillation\PlayCommand.cs" />
+    <Compile Include="Demos\SimpleOscillation\SetFrequencyCommand.cs" />
+    <Compile Include="Demos\SimpleOscillation\SetVolumeCommand.cs" />
+    <Compile Include="Demos\SimpleOscillation\SimpleOscillationDemoCommand.cs" />
+    <Compile Include="Demos\SimpleOscillation\StopCommand.cs" />
     <Compile Include="Demos\WindowsSoundPlayer\PlayLoopingCommand.cs" />
     <Compile Include="Demos\WindowsSoundPlayer\WindowsSoundPlayerDemoCommand.cs" />
     <Compile Include="Demos\WindowsSoundPlayer\PlayCommand.cs" />
