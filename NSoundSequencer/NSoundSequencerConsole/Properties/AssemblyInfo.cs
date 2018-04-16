@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CommandPattern")]
+[assembly: AssemblyTitle("NSoundSequencer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("ClassLibrary1")]
+[assembly: AssemblyProduct("NSoundSequencer")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("55e3f812-c61f-419d-b0c9-1af9e7fc80f8")]
+[assembly: Guid("349affd4-3e3c-4306-9041-773fe31b4452")]
 
 // Version information for an assembly consists of the following four values:
 //
